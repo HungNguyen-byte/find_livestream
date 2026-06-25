@@ -9,11 +9,11 @@ from googleapiclient.errors import HttpError
 import os
 
 # ====================== CẤU HÌNH ======================
-API_KEY = "AIzaSyB6qc5Mq_LzuW3hEMw6NMAGiq_rtcxNwSE"  # Dùng tạm, sau chuyển .env
+API_KEY = "<API Youtube>"  # Dùng tạm, sau chuyển .env
 DATA_FILE = "streams_data.json"
 
 KEYWORDS_FILTER = [
-    "AI", "Automation", "Tokenization", "Crypto", 
+    "AI", "Automation", "Tokenization", "Crypto",
     "Blockchain", "Fintech", "Web3", "Headhunter"
 ]  # Từ khóa lọc
 
