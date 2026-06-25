@@ -1,7 +1,7 @@
 <h1>Youtube Livestream</h1>
 <p>Thư viện cần cài đặt:</p>
 <p><strong>pip install requests google-api-python-client google-auth-oauthlib pandas openpyxl python-dotenv</strong></p>
-<p>Bước của các file</p>
+<p>Các bước chạy file</p>
 <ol>
   <li><strong>"youtube_token":</strong> tạo file "token.pickle"</li>
   <li><strong>"youtube_agent":</strong> thực hiện việc tìm kiếm thông tin livestream trên youtube + tự động nhắn vào stream</li>
